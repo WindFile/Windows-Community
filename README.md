@@ -1,7 +1,7 @@
 # 💬 Windows Community
 Remember to follow all the rules to be safe. If you are new user, start joining the community and enjoy posts, issues report, reporting rule-breaker user, or commenting!
 # 💻 What's new?
-Nothing else. New updates will come after January 29 or Feburay 5!
+New purposes, posting added, no private jokes.
 # ⚠️ Important Rules
 - No scamming
 - No bad words
