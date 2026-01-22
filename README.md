@@ -1,5 +1,5 @@
 # 💬 Windows Community
-Remember to follow all the rules to be safe. If you are new user, start joining the community and enjoy posts, issues report, reporting rule-breaker user, or commenting!
+Remember to follow all the rules to be safe. If you are new user, start joining the community and enjoy posts, issues report, reporting rule-breaker user, or commenting! Also, you can post at Discussions!
 # 💻 What's new?
 New purposes, posting added, no private jokes.
 # ⚠️ Important Rules
@@ -13,3 +13,5 @@ New purposes, posting added, no private jokes.
 - No false report
 - No swearing
 - No unknown users
+# 🚀 Next Update
+Feb 5, 2026. 8 AM or 12 PM.
